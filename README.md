@@ -1,2 +1,3 @@
 # blank-ts
-Blank ts repo
+
+A blank ts repo.
